@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I keep brushpens handy in case a global blackout forces me to present in medieval analog style**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/devadarshini-s-a10439383 </h3> 
 <p align="left">
 </p>
 
