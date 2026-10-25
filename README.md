@@ -5,7 +5,6 @@
 <!-- ========================================== -->
 <table width="100%" style="background-color: #0d1117; border: 2px solid #00f2fe; border-radius: 12px;">
   <tr>
-    <!-- Left Column: Retro TV Frame with Photo 1 -->
     <td width="35%" align="center" style="vertical-align: middle; padding: 15px; border-right: 1px dashed #00f2fe;">
       <pre style="color: #00f2fe; font-size: 10px; line-height: 1.1;">
  ╔══════════════════════════════╗
@@ -16,24 +15,16 @@
  ║  │                        │  ║
  ║  └────────────────────────┘  ║
  ║   📺 TV-CRT-MODE // 60Hz   ║
- ╚══════════════════════════════╝
-      </pre>
-
+ ╚══════════════════════════════╝</pre>
       <img src="https://raw.githubusercontent.com/just-deva/just-deva/main/photo1.jpg" width="140" style="border-radius: 10px; border: 2px solid #00f2fe; box-shadow: 0 0 15px #00f2fe;" alt="Devadarshini S - Photo 1" />
-
       <p style="color: #00f2fe; font-family: monospace; font-size: 13px; margin-top: 10px;"><b>@just-deva</b></p>
     </td>
-
-    <!-- Right Column: Terminal Header Screen -->
     <td width="65%" style="padding: 20px; vertical-align: top;">
       <pre style="color: #00f2fe; font-family: monospace; font-size: 12px;">🔴 🟡 🟢 devadarshini@cyber-terminal: ~</pre>
       <hr style="border: 0.5px solid #1f2937;" />
-      
-      <!-- Dynamic Typing Banner -->
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&width=450&height=40&lines=Hi+%F0%9F%91%8B+I'm+Devadarshini+S;Cybersecurity+%40+Amrita;Safe+AI+%26+Crypto+Researcher;Lead+%40+CybeReach+Club" alt="Typing Banner" />
       </a>
-
       <p style="color: #c9d1d9; font-family: monospace; font-size: 13px; line-height: 1.6;">
         📍 <b>Location:</b> India<br/>
         🎓 <b>Education:</b> B.Tech CS (Cybersecurity) @ Amrita Vishwa Vidyapeetham<br/>
@@ -49,21 +40,11 @@
 <!-- 2. SOCIAL & PLATFORM ACCOUNTS              -->
 <!-- ========================================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://hackerrank.com/your-hackerrank-profile" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://tryhackme.com/p/your-tryhackme-profile" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/your-leetcode-profile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/your-hackerrank-profile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://tryhackme.com/p/your-tryhackme-profile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
 </p>
 
 </div>
@@ -82,8 +63,7 @@
         <tr>
           <td style="vertical-align: top; padding-right: 15px;">
             <p style="color: #c9d1d9; font-family: monospace; line-height: 1.6;">
-              Cybersecurity undergraduate passionate about building resilient systems, low-level tooling, cryptographic algorithms, and secure AI frameworks.
-              <br/><br/>
+              Cybersecurity undergraduate passionate about building resilient systems, low-level tooling, cryptographic algorithms, and secure AI frameworks.<br/><br/>
               • <b>Student Lead</b> at <i>CybeReach Club</i> leading technical workshops, security outreach, and internal application development.<br/>
               • <b>Researcher</b> exploring <i>Digital Twin platforms</i> (AWS, Azure, ThingsBoard) and offline local LLM guardrails using Ollama.<br/>
               • <b>Open Source Builder</b> developing cybersecurity utility toolkits, networking engines, and full-stack enterprise portals.
@@ -107,10 +87,8 @@
       <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ls -la internships_and_leadership/</pre>
       <hr style="border: 0.5px solid #1f2937;" />
       <ul style="color: #c9d1d9; font-family: monospace; line-height: 1.8;">
-        <li><b>CybeReach Security Club — Student Lead</b> <span style="color: #00f2fe;">[Active]</span><br/>
-            └─ Directing technical tracks, school cyber-awareness workshops, and student attendance web solutions.</li>
-        <li><b>Digital Twin & Safe AI Guardrails Research</b> <span style="color: #00f2fe;">[Projects]</span><br/>
-            └─ Configured Docker container pipelines for IoT data and verified LLM safety evaluation metrics.</li>
+        <li><b>CybeReach Security Club — Student Lead</b> <span style="color: #00f2fe;">[Active]</span><br/>└─ Directing technical tracks, school cyber-awareness workshops, and student attendance web solutions.</li>
+        <li><b>Digital Twin & Safe AI Guardrails Research</b> <span style="color: #00f2fe;">[Projects]</span><br/>└─ Configured Docker container pipelines for IoT data and verified LLM safety evaluation metrics.</li>
       </ul>
     </td>
   </tr>
@@ -126,7 +104,6 @@
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
       <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ls skills/</pre>
       <hr style="border: 0.5px solid #1f2937;" />
-      <br/>
       <p>
         <b style="color: #00f2fe;">LANGUAGES:</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -156,14 +133,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 5. MOVING PROJECT MARQUEE (BOTTOM)         -->
+<!-- 5. MOVING PROJECT MARQUEE                  -->
 <!-- ========================================== -->
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
       <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ./run-project-marquee.sh</pre>
       <hr style="border: 0.5px solid #1f2937;" />
-      
       <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #00f2fe; font-family: monospace; font-size: 14px;">
         🐍 <b>The Python Toolkit</b> (Password Generators, API Vulnerability Scanners) &nbsp;&nbsp;•&nbsp;&nbsp; 
         🔍 <b>kannadiga.lens</b> &nbsp;&nbsp;•&nbsp;&nbsp; 
