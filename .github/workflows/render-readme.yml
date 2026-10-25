@@ -1,0 +1,42 @@
+name: Render profile dashboard
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - name: Install Puppeteer
+        run: npm install puppeteer
+      - name: Render high-resolution dashboard preview
+        run: |
+          node <<'NODE'
+          const puppeteer = require('puppeteer');
+          const path = require('path');
+          (async () => {
+            const browser = await puppeteer.launch({headless: 'new', args: ['--no-sandbox', '--disable-setuid-sandbox']});
+            const page = await browser.newPage();
+            await page.setViewport({width: 1200, height: 1600, deviceScaleFactor: 2});
+            await page.goto(`file://${path.join(process.cwd(), 'index.html')}`, {waitUntil: 'networkidle0'});
+            await new Promise(resolve => setTimeout(resolve, 2000));
+            await page.screenshot({path: 'dashboard-preview.png', fullPage: true});
+            await browser.close();
+          })();
+          NODE
+      - name: Commit preview
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dashboard-preview.png
+          git diff --cached --quiet || git commit -m "chore: render dashboard preview"
+          git push
