@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!-- MAIN HERO CARD ( Layout)     -->
+<!-- 1. MAIN HERO CARD ( STYLE)   -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px; border-collapse: separate;">
   <tr>
-    <!-- Left Column: Scanner Outline Photo Card -->
+    <!-- Left Column: Photo & Details -->
     <td width="38%" align="center" style="vertical-align: top; padding: 20px; border-right: 1px dashed #CCFF00;">
-      <img src="./photo1.png" width="160" style="border-radius: 10px; border: 2px solid #CCFF00; box-shadow: 0 0 15px rgba(204, 255, 0, 0.4);" alt="Devadarshini S - Cyber Scan" />
+      <img src="./photo1.jpg" width="150" style="border-radius: 10px; border: 2px solid #CCFF00; box-shadow: 0 0 15px rgba(204, 255, 0, 0.3);" alt="Devadarshini S" />
       <p style="color: #CCFF00; font-family: monospace; font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Hi 👋 I'm Devadarshini S</p>
       <p style="color: #E6EE9C; font-family: monospace; font-size: 12px; line-height: 1.6; text-align: left; margin: 12px 0;">
         📍 <b>Coimbatore, Tamil Nadu, India</b><br/>
@@ -21,7 +21,7 @@
         <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/@-CCFF00?style=flat-square&logo=gmail&logoColor=black"/></a>
       </p>
     </td>
-    <!-- Right Column: Terminal Header -->
+    <!-- Right Column: Terminal Bio & Skills -->
     <td width="62%" style="padding: 20px; vertical-align: top;">
       <pre style="color: #CCFF00; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@portfolio: ~</pre>
       <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
@@ -46,19 +46,18 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- TECH STACK CARD                            -->
+<!-- 2. TECH STACK TERMINAL CARD                -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 1px solid #CCFF00; border-radius: 8px; padding: 15px;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px;">
   <tr>
-    <td>
-      <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ <span style="color: #CCFF00;">ls tech-stack/</span></pre>
+    <td style="padding: 15px;">
+      <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls tech-stack/</pre>
       <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
       <pre style="color: #E6EE9C; font-family: monospace; font-size: 12px; line-height: 1.8; margin: 0;">
 <b style="color: #CCFF00;">LANGUAGES</b> = ["Python", "C", "C++", "Go", "Java", "JavaScript", "SQL"]
 <b style="color: #CCFF00;">SECURITY </b> = ["Cryptography", "API Vulnerability Scanning", "Threat Modelling"]
 <b style="color: #CCFF00;">AI / ML  </b> = ["Ollama", "Qwen2.5-Coder", "Google Earth Engine", "AI Security"]
-<b style="color: #CCFF00;">DEVOPS   </b> = ["Docker", "ThingsBoard", "Linux", "Git", "GitHub Actions"]
-      </pre>
+<b style="color: #CCFF00;">DEVOPS   </b> = ["Docker", "ThingsBoard", "Linux", "Git", "GitHub Actions"]</pre>
     </td>
   </tr>
 </table>
@@ -66,12 +65,12 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- GITHUB ANALYTICS (NEON YELLOW THEME)       -->
+<!-- 3. GITHUB ANALYTICS TERMINAL CARD          -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 1px solid #CCFF00; border-radius: 8px; padding: 15px;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px;">
   <tr>
-    <td>
-      <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ <span style="color: #CCFF00;">./github-analytics.sh</span></pre>
+    <td style="padding: 15px;">
+      <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./github-analytics.sh</pre>
       <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
       <div align="center">
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-deva&show_icons=true&theme=dark&bg_color=0A0B08&title_color=CCFF00&icon_color=CCFF00&text_color=E6EE9C&border_color=CCFF00&hide_border=false" />
