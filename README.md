@@ -1,7 +1,5 @@
 <p align="center"><img src="./hero.svg" alt="Devadarshini S — cybersecurity and systems engineering" width="100%" /></p>
-<p align="center">
-  <img src="./photo1.jpg" alt="Devadarshini S" width="180" />
-</p>
+
 <p align="center"><img src="./divider.svg" width="100%" height="16" /></p>
 <p align="center"><img src="./card-about.svg" alt="$ cat about_me.md" width="100%" /></p>
 <p align="center"><img src="./divider.svg" width="100%" height="16" /></p>
