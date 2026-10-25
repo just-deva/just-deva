@@ -1,31 +1,23 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!-- 1. RETRO TV / AVATAR & HEADER SECTION      -->
+<!-- 1. HEADER SECTION                          -->
 <!-- ========================================== -->
 <table width="100%" style="background-color: #0d1117; border: 2px solid #00f2fe; border-radius: 12px;">
   <tr>
-    <td width="35%" align="center" style="vertical-align: middle; padding: 15px; border-right: 1px dashed #00f2fe;">
-      <pre style="color: #00f2fe; font-size: 10px; line-height: 1.1;">
- ╔══════════════════════════════╗
- ║  ┌────────────────────────┐  ║
- ║  │                        │  ║
- ║  │   [ DEVADARSHINI S ]   ║  ║
- ║  │   PHOTO_01 :: ACTIVE   ║  ║
- ║  │                        │  ║
- ║  └────────────────────────┘  ║
- ║   📺 TV-CRT-MODE // 60Hz   ║
- ╚══════════════════════════════╝</pre>
-      <img src="https://raw.githubusercontent.com/just-deva/just-deva/main/photo1.jpg" width="140" style="border-radius: 10px; border: 2px solid #00f2fe; box-shadow: 0 0 15px #00f2fe;" alt="Devadarshini S - Photo 1" />
-      <p style="color: #00f2fe; font-family: monospace; font-size: 13px; margin-top: 10px;"><b>@just-deva</b></p>
+    <!-- Left Column: Photo 1 in Glowing Frame -->
+    <td width="35%" align="center" style="vertical-align: middle; padding: 20px; border-right: 1px dashed #00f2fe;">
+      <img src="./photo1.jpg" width="160" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 15px #00f2fe;" alt="Devadarshini S" />
+      <p style="color: #00f2fe; font-family: monospace; font-size: 14px; margin-top: 12px; margin-bottom: 0;"><b>@just-deva</b></p>
     </td>
+    <!-- Right Column: Terminal Header -->
     <td width="65%" style="padding: 20px; vertical-align: top;">
-      <pre style="color: #00f2fe; font-family: monospace; font-size: 12px;">🔴 🟡 🟢 devadarshini@cyber-terminal: ~</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
+      <pre style="color: #00f2fe; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@cyber-terminal: ~</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FE&width=450&height=40&lines=Hi+%F0%9F%91%8B+I'm+Devadarshini+S;Cybersecurity+%40+Amrita;Safe+AI+%26+Crypto+Researcher;Lead+%40+CybeReach+Club" alt="Typing Banner" />
       </a>
-      <p style="color: #c9d1d9; font-family: monospace; font-size: 13px; line-height: 1.6;">
+      <p style="color: #c9d1d9; font-family: monospace; font-size: 13px; line-height: 1.6; margin-top: 10px;">
         📍 <b>Location:</b> India<br/>
         🎓 <b>Education:</b> B.Tech CS (Cybersecurity) @ Amrita Vishwa Vidyapeetham<br/>
         🛡️ <b>Focus Areas:</b> Cryptography • Safe AI Guardrails • Digital Twins • Systems Engineering
@@ -57,12 +49,12 @@
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
-      <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ cat about_me.md</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
+      <pre style="color: #00f2fe; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ cat about_me.md</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
       <table width="100%">
         <tr>
           <td style="vertical-align: top; padding-right: 15px;">
-            <p style="color: #c9d1d9; font-family: monospace; line-height: 1.6;">
+            <p style="color: #c9d1d9; font-family: monospace; line-height: 1.6; margin: 0;">
               Cybersecurity undergraduate passionate about building resilient systems, low-level tooling, cryptographic algorithms, and secure AI frameworks.<br/><br/>
               • <b>Student Lead</b> at <i>CybeReach Club</i> leading technical workshops, security outreach, and internal application development.<br/>
               • <b>Researcher</b> exploring <i>Digital Twin platforms</i> (AWS, Azure, ThingsBoard) and offline local LLM guardrails using Ollama.<br/>
@@ -70,8 +62,7 @@
             </p>
           </td>
           <td width="150" align="center" style="vertical-align: top;">
-            <img src="https://raw.githubusercontent.com/just-deva/just-deva/main/photo2.jpg" width="130" style="border-radius: 8px; border: 2px solid #00f2fe; box-shadow: 0 0 10px #00f2fe;" alt="Devadarshini S - Photo 2" />
-            <p style="color: #8b949e; font-family: monospace; font-size: 11px; margin-top: 5px;">PHOTO_02 :: SYSTEM</p>
+            <img src="./photo2.jpg" width="130" style="border-radius: 8px; border: 2px solid #00f2fe; box-shadow: 0 0 10px #00f2fe;" alt="Devadarshini S - Photo 2" />
           </td>
         </tr>
       </table>
@@ -84,9 +75,9 @@
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
-      <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ls -la internships_and_leadership/</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
-      <ul style="color: #c9d1d9; font-family: monospace; line-height: 1.8;">
+      <pre style="color: #00f2fe; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls -la internships_and_leadership/</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
+      <ul style="color: #c9d1d9; font-family: monospace; line-height: 1.8; margin: 0; padding-left: 20px;">
         <li><b>CybeReach Security Club — Student Lead</b> <span style="color: #00f2fe;">[Active]</span><br/>└─ Directing technical tracks, school cyber-awareness workshops, and student attendance web solutions.</li>
         <li><b>Digital Twin & Safe AI Guardrails Research</b> <span style="color: #00f2fe;">[Projects]</span><br/>└─ Configured Docker container pipelines for IoT data and verified LLM safety evaluation metrics.</li>
       </ul>
@@ -102,9 +93,9 @@
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
-      <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ls skills/</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
-      <p>
+      <pre style="color: #00f2fe; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls skills/</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
+      <p style="margin: 5px 0;">
         <b style="color: #00f2fe;">LANGUAGES:</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -114,13 +105,13 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <p>
+      <p style="margin: 5px 0;">
         <b style="color: #00f2fe;">SECURITY & CRYPTO:</b><br/>
         <img src="https://img.shields.io/badge/Cryptography-RSA_|_ElGamal-00F2FE?style=flat-square&logo=letsencrypt&logoColor=black"/>
         <img src="https://img.shields.io/badge/API_Vulnerability_Scanner-00F2FE?style=flat-square&logo=postman&logoColor=black"/>
         <img src="https://img.shields.io/badge/Blockchain_Verification-00F2FE?style=flat-square&logo=ethereum&logoColor=black"/>
       </p>
-      <p>
+      <p style="margin: 5px 0;">
         <b style="color: #00f2fe;">AI & DIGITAL TWINS:</b><br/>
         <img src="https://img.shields.io/badge/Ollama-Qwen2.5--Coder-000000?style=flat-square&logo=ollama&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -138,8 +129,8 @@
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
-      <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ./run-project-marquee.sh</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
+      <pre style="color: #00f2fe; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./run-project-marquee.sh</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
       <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #00f2fe; font-family: monospace; font-size: 14px;">
         🐍 <b>The Python Toolkit</b> (Password Generators, API Vulnerability Scanners) &nbsp;&nbsp;•&nbsp;&nbsp; 
         🔍 <b>kannadiga.lens</b> &nbsp;&nbsp;•&nbsp;&nbsp; 
@@ -163,10 +154,10 @@
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px;">
-      <pre style="color: #00f2fe; font-family: monospace;">🔴 🟡 🟢 $ ./view-project-details.sh</pre>
-      <hr style="border: 0.5px solid #1f2937;" />
-      <ul style="color: #c9d1d9; font-family: monospace; line-height: 1.8;">
-        <li>🐍 <b>The Python Toolkit:</b> Complete cybersecurity utilities suite containing password generators, API vulnerability scanners, and cryptosystem solvers.</li>
+      <pre style="color: #00f2fe; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./view-project-details.sh</pre>
+      <hr style="border: 0.5px solid #1f2937; margin: 10px 0;" />
+      <ul style="color: #c9d1d9; font-family: monospace; line-height: 1.8; margin: 0; padding-left: 20px;">
+        <li>🐍 <b>The Python Toolkit:</b> Cybersecurity utilities suite containing password generators, API vulnerability scanners, and cryptosystem solvers.</li>
         <li>🔍 <b>kannadiga.lens:</b> Computer vision and cultural text/image analysis tool.</li>
         <li>🔗 <b>MindForge Document Verification:</b> Blockchain-backed document integrity and verification framework with AI safety guardrails.</li>
         <li>🌐 <b>My Portfolio:</b> Developer interactive showcase website.</li>
