@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!-- 1. MAIN HERO CARD (PINK OUTER BORDER)      -->
+<!-- 1. MAIN HERO CARD (PINK BORDER)            -->
 <!-- ========================================== -->
 <table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px; border-collapse: separate;">
   <tr>
-    <!-- Left Column: Photo & Details -->
     <td width="38%" align="center" style="vertical-align: top; padding: 20px; border-right: 1px dashed #FF007F;">
       <img src="./photo1.jpg" width="150" style="border-radius: 10px; border: 2px solid #CCFF00; box-shadow: 0 0 15px rgba(204, 255, 0, 0.3);" alt="Devadarshini S" />
       <p style="color: #CCFF00; font-family: monospace; font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Hi 👋 I'm Devadarshini S</p>
@@ -21,7 +20,6 @@
         <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/@-CCFF00?style=flat-square&logo=gmail&logoColor=black"/></a>
       </p>
     </td>
-    <!-- Right Column: Terminal Bio & Skills -->
     <td width="62%" style="padding: 20px; vertical-align: top;">
       <pre style="color: #CCFF00; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@portfolio: ~</pre>
       <hr style="border: 0.5px solid #FF007F; margin: 10px 0;" />
@@ -46,7 +44,7 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 2. TECH STACK CARD (PINK OUTER BORDER)     -->
+<!-- 2. TECH STACK CARD (PINK BORDER)           -->
 <!-- ========================================== -->
 <table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px;">
   <tr>
@@ -65,7 +63,7 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 3. GITHUB ANALYTICS CARD (PINK OUTER BORDER)-->
+<!-- 3. GITHUB ANALYTICS CARD (PINK BORDER)     -->
 <!-- ========================================== -->
 <table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px;">
   <tr>
