@@ -1,38 +1,38 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!-- 1. RETRO PINK CRT TV & TERMINAL HEADER     -->
+<!-- 1. RETRO PINK TV & HEADER SECTION          -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #18050e; border: 2px solid #ff2a85; border-radius: 12px;">
+<table width="100%" style="background-color: #1a030d; border: 2px solid #ff1493; border-radius: 12px;">
   <tr>
     <!-- Left Column: Retro Pink CRT TV Monitor with Photo 1 -->
-    <td width="38%" align="center" style="vertical-align: middle; padding: 15px; border-right: 1px dashed #ff2a85;">
+    <td width="38%" align="center" style="vertical-align: middle; padding: 15px; border-right: 1px dashed #ff1493;">
       <pre style="color: #ff66cc; font-family: monospace; font-size: 11px; line-height: 1.1; margin: 0;">
     \   /
      \ /
       o
 ╔════════════════════════╗
 ║ ┌────────────────────┐ ║
-║ │  [ DEVADARSHINI ]  │ ║
-║ │   PINK CRT TV 📺   │ ║
+║ │   DEVADARSHINI S   │ ║
+║ │  PINK TV - 60Hz 📺 │ ║
 ║ └────────────────────┘ ║
 ╚════════════════════════╝</pre>
       <br/>
-      <img src="./photo1.jpg" width="150" style="border-radius: 12px; border: 3px solid #ff2a85;" alt="Devadarshini S - Photo 1" />
+      <img src="./photo1.jpg" width="140" style="border-radius: 10px; border: 3px solid #ff1493; box-shadow: 0 0 15px #ff1493;" alt="Devadarshini S" />
       <p style="color: #ff66cc; font-family: monospace; font-size: 13px; margin-top: 10px; margin-bottom: 0;"><b>@just-deva</b></p>
     </td>
     <!-- Right Column: Pink Terminal Screen -->
     <td width="62%" style="padding: 20px; vertical-align: top;">
-      <pre style="color: #ff2a85; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@pink-cyber-terminal: ~</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+      <pre style="color: #ff1493; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@pink-cyber-terminal: ~</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <!-- Pink Typing Banner -->
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF66CC&width=450&height=40&lines=Hi+%F0%9F%91%8B+I'm+Devadarshini+S;Cybersecurity+%40+Amrita;Safe+AI+%26+Crypto+Researcher;Lead+%40+CybeReach+Club" alt="Typing Banner" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF1493&width=450&height=40&lines=Hi+%F0%9F%91%8B+I'm+Devadarshini+S;Cybersecurity+%40+Amrita;Safe+AI+%26+Crypto+Researcher;Lead+%40+CybeReach+Club" alt="Typing Banner" />
       </a>
       <p style="color: #ffb3da; font-family: monospace; font-size: 13px; line-height: 1.6; margin-top: 10px;">
         📍 <b style="color: #ff66cc;">Location:</b> India<br/>
         🎓 <b style="color: #ff66cc;">Education:</b> B.Tech CS (Cybersecurity) @ Amrita Vishwa Vidyapeetham<br/>
-        🛡️ <b style="color: #ff66cc;">Focus Areas:</b> Cryptography • Safe AI Guardrails • Digital Twins • Systems
+        🛡️ <b style="color: #ff66cc;">Focus Areas:</b> Cryptography • Safe AI Guardrails • Digital Twins • Systems Engineering
       </p>
     </td>
   </tr>
@@ -41,13 +41,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 2. PINK SOCIAL & PLATFORM BADGES          -->
+<!-- 2. PINK BADGES & PLATFORMS                 -->
 <!-- ========================================== -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF2A85?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF2A85?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com/your-hackerrank-profile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-FF2A85?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://tryhackme.com/p/your-tryhackme-profile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-FF2A85?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/your-leetcode-profile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF1493?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/your-hackerrank-profile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-FF1493?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://tryhackme.com/p/your-tryhackme-profile" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-FF1493?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF66CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -56,13 +56,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 3. ABOUT ME WITH PHOTO 2                   -->
+<!-- 3. ABOUT ME WITH PHOTO INSIDE TV BOX       -->
 <!-- ========================================== -->
 <table width="100%">
   <tr>
-    <td bgcolor="#18050e" style="border: 1px solid #ff2a85; border-radius: 8px; padding: 15px;">
-      <pre style="color: #ff2a85; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ cat about_me.md</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+    <td bgcolor="#1a030d" style="border: 1px solid #ff1493; border-radius: 8px; padding: 15px;">
+      <pre style="color: #ff1493; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ cat about_me.md</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <table width="100%">
         <tr>
           <td style="vertical-align: top; padding-right: 15px;">
@@ -73,8 +73,19 @@
               • <b style="color: #ff66cc;">Open Source Builder</b> developing cybersecurity utility toolkits, networking engines, and full-stack enterprise portals.
             </p>
           </td>
-          <td width="150" align="center" style="vertical-align: top;">
-            <img src="./photo2.jpg" width="130" style="border-radius: 8px; border: 2px solid #ff2a85;" alt="Devadarshini S - Photo 2" />
+          <!-- Photo Enclosed Inside TV Box Unit -->
+          <td width="170" align="center" style="vertical-align: top;">
+            <table style="background-color: #0d0107; border: 2px solid #ff66cc; border-radius: 12px; padding: 8px;">
+              <tr>
+                <td align="center">
+                  <pre style="color: #ff1493; font-family: monospace; font-size: 9px; line-height: 1; margin: 0 0 4px 0;">\  /
+ O
+[TV_DISPLAY]</pre>
+                  <img src="./photo2.jpg" width="125" style="border-radius: 6px; border: 2px solid #ff1493;" alt="Devadarshini S - Photo 2" />
+                  <pre style="color: #ff66cc; font-family: monospace; font-size: 9px; line-height: 1; margin: 4px 0 0 0;">● ● ═══ [PWR]</pre>
+                </td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
@@ -84,14 +95,17 @@
 
 <br/>
 
+<!-- ========================================== -->
+<!-- 4. LEADERSHIP & ROLES                      -->
+<!-- ========================================== -->
 <table width="100%">
   <tr>
-    <td bgcolor="#18050e" style="border: 1px solid #ff2a85; border-radius: 8px; padding: 15px;">
-      <pre style="color: #ff2a85; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls -la leadership_and_roles/</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+    <td bgcolor="#1a030d" style="border: 1px solid #ff1493; border-radius: 8px; padding: 15px;">
+      <pre style="color: #ff1493; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls -la leadership_and_roles/</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <ul style="color: #ffb3da; font-family: monospace; line-height: 1.8; margin: 0; padding-left: 20px;">
-        <li><b style="color: #ff66cc;">CybeReach Security Club — Student Lead</b> <span style="color: #ff2a85;">[Active]</span><br/>└─ Directing technical tracks, school cyber-awareness workshops, and student attendance web solutions.</li>
-        <li><b style="color: #ff66cc;">Digital Twin & Safe AI Guardrails Research</b> <span style="color: #ff2a85;">[Projects]</span><br/>└─ Configured Docker container pipelines for IoT data and verified LLM safety evaluation metrics.</li>
+        <li><b style="color: #ff66cc;">CybeReach Security Club — Student Lead</b> <span style="color: #ff1493;">[Active]</span><br/>└─ Directing technical tracks, school cyber-awareness workshops, and student attendance web solutions.</li>
+        <li><b style="color: #ff66cc;">Digital Twin & Safe AI Guardrails Research</b> <span style="color: #ff1493;">[Projects]</span><br/>└─ Configured Docker container pipelines for IoT data and verified LLM safety evaluation metrics.</li>
       </ul>
     </td>
   </tr>
@@ -100,13 +114,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 4. TECH STACK & SKILLS                     -->
+<!-- 5. TECH STACK & SKILLS                     -->
 <!-- ========================================== -->
 <table width="100%">
   <tr>
-    <td bgcolor="#18050e" style="border: 1px solid #ff2a85; border-radius: 8px; padding: 15px;">
-      <pre style="color: #ff2a85; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls skills/</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+    <td bgcolor="#1a030d" style="border: 1px solid #ff1493; border-radius: 8px; padding: 15px;">
+      <pre style="color: #ff1493; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls skills/</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <p style="margin: 5px 0;">
         <b style="color: #ff66cc;">LANGUAGES:</b><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -119,9 +133,9 @@
       </p>
       <p style="margin: 5px 0;">
         <b style="color: #ff66cc;">SECURITY & CRYPTO:</b><br/>
-        <img src="https://img.shields.io/badge/Cryptography-RSA_|_ElGamal-FF2A85?style=flat-square&logo=letsencrypt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/API_Vulnerability_Scanner-FF2A85?style=flat-square&logo=postman&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blockchain_Verification-FF2A85?style=flat-square&logo=ethereum&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cryptography-RSA_|_ElGamal-FF1493?style=flat-square&logo=letsencrypt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API_Vulnerability_Scanner-FF1493?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blockchain_Verification-FF1493?style=flat-square&logo=ethereum&logoColor=white"/>
       </p>
       <p style="margin: 5px 0;">
         <b style="color: #ff66cc;">AI & DIGITAL TWINS:</b><br/>
@@ -136,13 +150,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 5. MOVING PROJECT MARQUEE (PINK THEME)     -->
+<!-- 6. MOVING PROJECT MARQUEE (ALL-PINK)       -->
 <!-- ========================================== -->
 <table width="100%">
   <tr>
-    <td bgcolor="#18050e" style="border: 1px solid #ff2a85; border-radius: 8px; padding: 15px;">
-      <pre style="color: #ff2a85; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./run-project-marquee.sh</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+    <td bgcolor="#1a030d" style="border: 1px solid #ff1493; border-radius: 8px; padding: 15px;">
+      <pre style="color: #ff1493; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./run-project-marquee.sh</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #ff66cc; font-family: monospace; font-size: 14px;">
         🐍 <b>The Python Toolkit</b> (Password Generators, API Vulnerability Scanners) &nbsp;&nbsp;•&nbsp;&nbsp; 
         🔍 <b>kannadiga.lens</b> &nbsp;&nbsp;•&nbsp;&nbsp; 
@@ -161,13 +175,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 6. FEATURED PROJECTS DETAILED DIRECTORY    -->
+<!-- 7. FEATURED PROJECTS DETAILED DIRECTORY    -->
 <!-- ========================================== -->
 <table width="100%">
   <tr>
-    <td bgcolor="#18050e" style="border: 1px solid #ff2a85; border-radius: 8px; padding: 15px;">
-      <pre style="color: #ff2a85; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./view-project-details.sh</pre>
-      <hr style="border: 0.5px solid #ff2a85; margin: 10px 0;" />
+    <td bgcolor="#1a030d" style="border: 1px solid #ff1493; border-radius: 8px; padding: 15px;">
+      <pre style="color: #ff1493; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./view-project-details.sh</pre>
+      <hr style="border: 0.5px solid #ff1493; margin: 10px 0;" />
       <ul style="color: #ffb3da; font-family: monospace; line-height: 1.8; margin: 0; padding-left: 20px;">
         <li>🐍 <b style="color: #ff66cc;">The Python Toolkit:</b> Cybersecurity utilities suite containing password generators, API vulnerability scanners, and cryptosystem solvers.</li>
         <li>🔍 <b style="color: #ff66cc;">kannadiga.lens:</b> Computer vision and cultural text/image analysis tool.</li>
@@ -186,21 +200,21 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 7. PINK GITHUB ANALYTICS SECTION          -->
+<!-- 8. ALL-PINK GITHUB ANALYTICS              -->
 <!-- ========================================== -->
 <div align="center">
-  <pre align="left" style="color: #ff2a85; font-family: monospace;">🔴 🟡 🟢 $ ./github-analytics.sh</pre>
+  <pre align="left" style="color: #ff1493; font-family: monospace;">🔴 🟡 🟢 $ ./github-analytics.sh</pre>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-deva&show_icons=true&theme=dark&bg_color=18050E&title_color=FF2A85&icon_color=FF66CC&text_color=FFB3DA&border_color=FF2A85&hide_border=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=just-deva&theme=dark&background=18050E&stroke=FF2A85&alarm=FF2A85&fire=FF2A85&ring=FF2A85&hard=FF2A85&currStreakLabel=FF66CC&border=FF2A85" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-deva&show_icons=true&theme=dark&bg_color=1A030D&title_color=FF1493&icon_color=FF66CC&text_color=FFB3DA&border_color=FF1493&hide_border=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=just-deva&theme=dark&background=1A030D&stroke=FF1493&alarm=FF1493&fire=FF1493&ring=FF1493&hard=FF1493&currStreakLabel=FF66CC&border=FF1493" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-deva&layout=compact&theme=dark&bg_color=18050E&title_color=FF2A85&text_color=FFB3DA&border_color=FF2A85&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-deva&layout=compact&theme=dark&bg_color=1A030D&title_color=FF1493&text_color=FFB3DA&border_color=FF1493&hide_border=false" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub style="color: #ff66cc;">Created with 💖 by <a href="https://github.com/just-deva" style="color: #ff2a85;">just-deva</a></sub>
+  <sub style="color: #ff66cc;">Created with 💖 by <a href="https://github.com/just-deva" style="color: #ff1493;">just-deva</a></sub>
 </div>
