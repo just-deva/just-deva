@@ -4,7 +4,7 @@
 <p align="center"><img src="./card-about.svg" alt="$ cat about_me.md" width="100%" /></p>
 <p align="center"><img src="./divider.svg" width="100%" height="16" /></p>
 <p align="center"><img src="./card-techstack.svg" alt="$ ls tech-stack/" width="100%" /></p>
-<p align="center"><img src="./card-projects.gif" alt="$ ls projects/" width="100%" /></p>
+<p align="center"><img src="./card-projects.gif?v=20261025" alt="$ ls projects/" width="100%" /></p>
 <p align="center"><img src="./divider.svg" width="100%" height="16" /></p>
 
 <img src="https://img.shields.io/badge/GitHub-just--deva-ff007f?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d0518" />
