@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ========================================== -->
-<!-- 1. MAIN HERO CARD ( STYLE)   -->
+<!-- 1. MAIN HERO CARD (PINK OUTER BORDER)      -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px; border-collapse: separate;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px; border-collapse: separate;">
   <tr>
     <!-- Left Column: Photo & Details -->
-    <td width="38%" align="center" style="vertical-align: top; padding: 20px; border-right: 1px dashed #CCFF00;">
+    <td width="38%" align="center" style="vertical-align: top; padding: 20px; border-right: 1px dashed #FF007F;">
       <img src="./photo1.jpg" width="150" style="border-radius: 10px; border: 2px solid #CCFF00; box-shadow: 0 0 15px rgba(204, 255, 0, 0.3);" alt="Devadarshini S" />
       <p style="color: #CCFF00; font-family: monospace; font-size: 16px; font-weight: bold; margin-top: 15px; margin-bottom: 5px;">Hi 👋 I'm Devadarshini S</p>
       <p style="color: #E6EE9C; font-family: monospace; font-size: 12px; line-height: 1.6; text-align: left; margin: 12px 0;">
@@ -24,7 +24,7 @@
     <!-- Right Column: Terminal Bio & Skills -->
     <td width="62%" style="padding: 20px; vertical-align: top;">
       <pre style="color: #CCFF00; font-family: monospace; font-size: 12px; margin: 0;">🔴 🟡 🟢 devadarshini@portfolio: ~</pre>
-      <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
+      <hr style="border: 0.5px solid #FF007F; margin: 10px 0;" />
       <pre style="color: #CCFF00; font-family: monospace; font-size: 13px; margin: 0;">$ cat about.me</pre>
       <p style="color: #E6EE9C; font-family: monospace; font-size: 12px; line-height: 1.6; margin: 8px 0 15px 0;">
         Cybersecurity undergraduate at Amrita Vishwa Vidyapeetham specializing in cryptography, safe AI guardrails, computer networks, and systems development. Lead at CybeReach Club, building low-level tools, security scanners, and digital twin architectures.
@@ -46,13 +46,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 2. TECH STACK TERMINAL CARD                -->
+<!-- 2. TECH STACK CARD (PINK OUTER BORDER)     -->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px;">
   <tr>
     <td style="padding: 15px;">
       <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ls tech-stack/</pre>
-      <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
+      <hr style="border: 0.5px solid #FF007F; margin: 10px 0;" />
       <pre style="color: #E6EE9C; font-family: monospace; font-size: 12px; line-height: 1.8; margin: 0;">
 <b style="color: #CCFF00;">LANGUAGES</b> = ["Python", "C", "C++", "Go", "Java", "JavaScript", "SQL"]
 <b style="color: #CCFF00;">SECURITY </b> = ["Cryptography", "API Vulnerability Scanning", "Threat Modelling"]
@@ -65,13 +65,13 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- 3. GITHUB ANALYTICS TERMINAL CARD          -->
+<!-- 3. GITHUB ANALYTICS CARD (PINK OUTER BORDER)-->
 <!-- ========================================== -->
-<table width="100%" style="background-color: #0A0B08; border: 2px solid #CCFF00; border-radius: 12px;">
+<table width="100%" style="background-color: #0A0B08; border: 2px solid #FF007F; border-radius: 12px;">
   <tr>
     <td style="padding: 15px;">
       <pre style="color: #CCFF00; font-family: monospace; margin: 0;">🔴 🟡 🟢 $ ./github-analytics.sh</pre>
-      <hr style="border: 0.5px solid #CCFF00; margin: 10px 0;" />
+      <hr style="border: 0.5px solid #FF007F; margin: 10px 0;" />
       <div align="center">
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=just-deva&show_icons=true&theme=dark&bg_color=0A0B08&title_color=CCFF00&icon_color=CCFF00&text_color=E6EE9C&border_color=CCFF00&hide_border=false" />
         <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=just-deva&theme=dark&background=0A0B08&stroke=CCFF00&alarm=CCFF00&fire=CCFF00&ring=CCFF00&hard=CCFF00&currStreakLabel=CCFF00&border=CCFF00" />
